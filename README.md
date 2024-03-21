@@ -23,7 +23,7 @@ Configure GPT Dock effortlessly with your own OpenAI API Key, ensuring seamless 
 
 Experience the convenience and efficiency of GPT Dock today, and streamline your interactions with OpenAI's powerful GPT models.
 
-**GPT Dock** might make your life easier. For Windows only.
+**GPT Dock** might make your life easier. For Windows only. **Run as administrator**.
 
 
 
